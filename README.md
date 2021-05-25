@@ -1,7 +1,7 @@
 - :raised_hand_with_fingers_splayed: Hi, I’m @Wirzest
 - 👀 I’m interested in Julia and its data science libraries
 - 🌱 I’m currently learning Turing.jl and probabilistic programming
-- 💞️ I’m looking to collaborate on (dunno yet)... :orangutan: :orangutan: 
+- 💞️ I’m looking to collaborate on the implementation of data structures and predictive models :orangutan: :orangutan: 
 - 📫 How to reach me: victor.wirz@edu.unirio.br
 
 <!---
